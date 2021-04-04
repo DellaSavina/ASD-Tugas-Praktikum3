@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class No1 {
      public static void main(String[] args) {
         System.out.println("***** SEQUENTIAL SEARCH ***** "+"\n" );
-        String data[] = {"Galileo", "Archimedes", "Alkhwarizmi", "Nama Mahasiswa", "Tesla" };
+        String data[] = {"Galileo", "Archimedes", "Alkhawarizmi", "Nama Mahasiswa", "Tesla" };
         String key;
         
         Scanner scan = new Scanner(System.in);
